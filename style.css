@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+.estilo h1 {
+    font-size: 200%;
+    color: rgb(176, 255, 30);
+}
